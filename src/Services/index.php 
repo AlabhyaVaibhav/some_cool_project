@@ -1,0 +1,14 @@
+<?php
+
+/**
+  * Testing the arch. 
+  */
+ class BaseClass
+ {
+ 	
+ 	public static function indexFunction(){
+ 		return "Cool";
+ 	}
+ } 
+
+?>
